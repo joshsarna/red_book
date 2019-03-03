@@ -22,7 +22,11 @@ module RedBook
       "The horn of Helm Hammerhand shall sound in the deep. One last time.",
       "I want to hear more about Sam. Frodo wouldn't have gotten far without Sam."
     ],[
-      "Fool of a Took!"
+      "Fool of a Took!",
+      "Certainty of death. Small chance of success. What are we waiting for?",
+      "The stars are veiled. Something stirs in the East. A sleepless malice. The eye of the enemy is moving. He is here.",
+      "Your father loves you, Faramir. He will remember it before the end.",
+      "Now is the hour! Riders of Rohan! Oaths you have taken, now fulfill them all, to lord and land!"
     ]
   ]
 
