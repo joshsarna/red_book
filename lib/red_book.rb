@@ -13,7 +13,9 @@ module RedBook
   ]
   @movie_quotes = [
     [
-      "I made a promise, Mr. Frodo."
+      "I made a promise, Mr. Frodo.",
+      "And my axe!",
+      "One does not simply walk into Mordor",
     ],[
       "They're taking the hobbits to Isengard."
     ],[
