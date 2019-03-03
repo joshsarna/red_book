@@ -18,7 +18,7 @@ module RedBook
     ],[
       "They're taking the hobbits to Isengard."
     ],[
-
+      "Fool of a Took!"
     ]
   ]
 
@@ -52,5 +52,13 @@ module RedBook
   
   def self.red_script3
     p @movie_quotes[2].sample
+  end
+end
+
+class ApplicationController
+  before_action :red
+
+  def red
+    RedBook::red_book
   end
 end
