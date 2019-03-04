@@ -8,7 +8,8 @@ module RedBook
     ],[
       "Some of my kin look just like trees now, and need something great to rouse them; and they speak only in whispers. But some of my trees are limb-lithe, and many can talk to me."
     ],[
-      "Deeds will not be less valiant because they are unpraised."
+      "Deeds will not be less valiant because they are unpraised.",
+      "I will not say: do not weep; for not all tears are an evil."
     ]
   ]
   @movie_quotes = [
