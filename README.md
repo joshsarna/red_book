@@ -18,5 +18,5 @@ RedBook::red_book3 # => a random quote from the third book
 RedBook::red_script # => a random quote from one of the movies
 RedBook::red_script1 # => a random quote from the first movie
 RedBook::red_script2 # => a random quote from the second movie
-RedBook::red_script3. # => a random quote from the third movie
+RedBook::red_script3 # => a random quote from the third movie
 ```
